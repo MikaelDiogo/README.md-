@@ -73,7 +73,6 @@ Nela possuímos os atributos/colunas:
 <h2>Tabela <i>estuda</i></h2>
 Tabela <i>estuda</i> é uma tabela de ligação entre as tabelas disciplinas e alunos. Nela possuímos os atributos/colunas:
 <ul>
-    
     <p>fk_alunos_mat:chave estrangeira que faz referência a tabela alunos.</p>
     <p>fk_disciplinas_cod_disc:chave estrangeira que faz referência a tabela disciplinas.</p>
 </ul>
